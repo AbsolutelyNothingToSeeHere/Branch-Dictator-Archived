@@ -1,3 +1,7 @@
+# PROJECT ARCHIVED
+I've never used a template repo before and after trying to create PRs just to have it default back to my template repo, I realized there was a reason for that and that I'd made a mistake by not using the template repo _as a template_. Lesson learned!
+
+
 # Branch Dictator 👑
 Oh, you thought this was a democracy? Guess again... in this kingdom, branches are micromanaged and admins have less power ¯\\\_(ツ)\_/¯
 
